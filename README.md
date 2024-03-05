@@ -1,3 +1,5 @@
+![Screenshot_20230224_060031](https://github.com/Mathew-Tomy/-React-js-Pinterest-Web-APP/assets/159645212/745982d6-0e1f-4715-adac-30fe5e2210b0)
+![Screenshot_20230224_055918](https://github.com/Mathew-Tomy/-React-js-Pinterest-Web-APP/assets/159645212/729edbba-3fc8-400a-9d9a-373fd6ba2da3)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
